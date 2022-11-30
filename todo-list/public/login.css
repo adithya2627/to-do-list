@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+h1{
+    color: tomato;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff5eb;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+}
+div{
+    width: 50vh;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+button{
+    width:200px;
+    height: 50px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    background-color: rgb(83, 208, 240);
+    color:white;
+}
+i{
+    margin-left: 10px;
+}
